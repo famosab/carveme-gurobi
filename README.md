@@ -16,6 +16,8 @@ Use python setup.py install
 
 Additionally, you must install diamond and GUROBI.
 
+Needs to run as sudo
+
 ### Credits and License
 
 Please refer to the original repo https://github.com/cdanielmachado/carveme.
